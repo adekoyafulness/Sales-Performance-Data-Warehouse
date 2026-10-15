@@ -1,2 +1,2 @@
 # SQL-DWH-project
-Built a database using SQL Server to consolidate sales data for analytics and reporting. 
+Built a data warehouse using SQL Server to consolidate sales data for analytics and reporting. 
